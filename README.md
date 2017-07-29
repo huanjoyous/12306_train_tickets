@@ -1,6 +1,6 @@
 # 12306_train_tickets
-Python实现12306火车票查询工具
-
+12306火车票查询工具，可以查询指定出发地、目的地、日期、列出类型的所有火车余票！
+此程序用Python3.6实现、在macOS系统，命令行模式下操作！
 """Usage:
    tickets_my.py [-dgktz] <from> <to> <date>
    [-dgktz]:可选、如果不选，则默认查询所有类型的列车；
