@@ -17,7 +17,9 @@ Options:
     -t        特快
     -z        直达
 """
-
+#coding = utf-8
+#author = Lyon
+#date = 2017-12-17
 import requests,json
 from docopt import docopt
 from prettytable import PrettyTable
